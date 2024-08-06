@@ -1,4 +1,4 @@
 resource_group_name = "ResourceGroup"
-location            = "East US"
+location            = "West Europe"
 aks_cluster_name    = "DesafioAKSCluster"
 node_count          = 2
