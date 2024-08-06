@@ -16,5 +16,5 @@ variable "aks_cluster_name" {
 variable "node_count" {
   description = "Número de nós no cluster"
   type        = number
-  default     = 2
+  default     = 3
 }
